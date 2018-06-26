@@ -1,3 +1,4 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/olivier-van-wijngaarden/training-assignments-simple?branch=master)](https://bettercodehub.com/)
 
 Assignments for Java Quality Software Developer (QSD) training with Better Code Hub (BCH)
 ==========
